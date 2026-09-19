@@ -1,0 +1,13 @@
+id_pedido,distancia_km,prazo_dias,dias_decorridos,status,valor_frete,custo_combustivel
+101,45,2,2,Entregue no Prazo,85.50,30.00
+102,120,4,5,Atrasado,210.00,90.00
+103,15,1,1,Entregue no Prazo,45.00,10.00
+104,300,6,8,Atrasado,450.00,280.00
+105,80,3,3,Entregue no Prazo,130.00,50.00
+106,210,5,5,Entregue no Prazo,310.00,140.00
+107,95,3,4,Atrasado,150.00,70.00
+108,50,2,2,Entregue no Prazo,90.00,35.00
+109,180,4,4,Entregue no Prazo,260.00,120.00
+110,400,7,9,Atrasado,580.00,390.00
+111,500,5,12,Atrasado,1200.00,850.00
+112,25,1,,Entregue no Prazo,50.00,15.00
