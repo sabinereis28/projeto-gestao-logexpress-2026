@@ -26,7 +26,7 @@ O notebook `analise_entregas.ipynb` gera três gráficos principais para anális
 2. **Gráfico de Dispersão:** Relação linear entre a distância percorrida (km) e o custo com combustível (R$).
 3. **Boxplot:** Identificação de *outliers* de tempo nos fretes de longa distância.
 
-![Painel de Gráficos e KPIs da LogExpress](graficos/dashboard_graficos.png)
+![Painel de Gráficos e KPIs da LogExpress](graficos)
 
 ---
 
