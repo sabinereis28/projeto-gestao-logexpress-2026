@@ -27,6 +27,7 @@ O notebook `analise_entregas.ipynb` gera três gráficos principais para anális
 3. **Boxplot:** Identificação de *outliers* de tempo nos fretes de longa distância.
 
 ![Painel de Gráficos e KPIs da LogExpress](graficos/dashboard_graficos.png)
+
 ---
 
 ## 2.4 Análise Crítica (Conexão com a Gestão do Projeto)
