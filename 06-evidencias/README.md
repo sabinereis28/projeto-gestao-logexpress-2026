@@ -16,4 +16,5 @@ Esta pasta armazena comprovantes técnicos de execução do projeto (capturas de
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/281cbc41-532b-428b-a067-c56e054af750" />
 
 
+
 - `evidencia-repositorio-github.png`: Visão geral da árvore de diretórios do repositório padronizado.
