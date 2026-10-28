@@ -10,4 +10,3 @@ id_pedido,distancia_km,prazo_dias,dias_decorridos,status,valor_frete,custo_combu
 109,180,4,4,Entregue no Prazo,260.00,120.00
 110,400,7,9,Atrasado,580.00,390.00
 111,500,5,12,Atrasado,1200.00,850.00
-112,25,1,,Entregue no Prazo,50.00,15.00
