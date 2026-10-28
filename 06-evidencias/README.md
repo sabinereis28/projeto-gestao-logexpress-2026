@@ -9,11 +9,12 @@ Esta pasta armazena comprovantes técnicos de execução do projeto (capturas de
 
 
 - `evidencia-otimizacao-pulp.png`: Print da resolução dos modelos matemáticos via biblioteca PuLP obtendo o status `Optimal`.
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c1dee727-2850-4672-9430-600a2b41e630" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2fc65d4a-a487-4904-8b7f-fb4294daf630" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/62f9b95f-5ed0-4db4-a320-70e5834c05d3" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/72bb59e8-f6a1-4b4a-91fa-cb2458ab0014" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/281cbc41-532b-428b-a067-c56e054af750" />
+<img width="1366" height="768" alt="Captura de Tela (87)" src="https://github.com/user-attachments/assets/e488166c-c86f-47b0-8b1c-66670e9cfbcf" />
+<img width="1366" height="768" alt="Captura de Tela (88)" src="https://github.com/user-attachments/assets/c054264d-6083-49bd-8d30-137f03168b26" />
+<img width="1366" height="768" alt="Captura de Tela (89)" src="https://github.com/user-attachments/assets/55f64001-bcb3-481d-8243-3880258b42f0" />
+
+
+
 
 
 
