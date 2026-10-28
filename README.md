@@ -26,7 +26,7 @@ Desenvolver e aplicar soluções integradas de Gestão de Projetos, Análise de 
 Os scripts desenvolvidos foram criados para execução direta no **Google Colab** ou **Jupyter Notebook** (Python 3):
 
 1. **Análise de Dados:**
-   - Abra o notebook em `03-analise-de-dados/2_analise_entregas.ipynb`.
+   - Abra o notebook em `03-analise-de-dados/analise.ipynb`.
    - Garanta que a base `1.dados_entregas.csv` está acessível e execute as células sequencialmente.
 
 2. **Pesquisa Operacional:**
