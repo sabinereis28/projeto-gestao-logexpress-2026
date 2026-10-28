@@ -19,7 +19,7 @@ Desenvolver e aplicar soluções integradas de Gestão de Projetos, Análise de 
 - `04-seguranca-da-informacao/`: riscos, controles e políticas.
 - `05-pesquisa-operacional/`: modelo, código e resultados.
 - `06-evidencias/`: evidências técnicas sem dados pessoais.
-- `07-video/`: roteiro e link do vídeo não listado.
+- `07-video/`: roteiro e link do vídeo.
 - `08-referencias/`: fontes consultadas.
 
 ## Como executar
@@ -34,7 +34,7 @@ Os scripts desenvolvidos foram criados para execução direta no **Google Colab*
    - Execute a célula inicial de instalação da biblioteca (`!pip install pulp`) e rode os modelos de otimização e análises *What-If*.
 
 ## Vídeo
-- **Link do Vídeo (YouTube - Não Listado):** [Link a ser inserido na entrega da Fase 5]
+- **Link do Vídeo: 
 
 ## Privacidade
 Este repositório público não contém nomes completos, RAs ou outros dados pessoais dos integrantes. A identificação acadêmica consta somente no documento final enviado ao professor.
