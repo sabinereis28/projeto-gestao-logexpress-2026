@@ -1,6 +1,6 @@
 # 05 - Pesquisa Operacional e Otimização Algorítmica
 
-Esta pasta contém as modelagens matemáticas, bases de parâmetros e algoritmos em Python (biblioteca PuLP) desenvolvidos para a LogExpress.
+Esta pasta contém as modelagens matemáticas, bases de parâmetros e algoritmos em Python desenvolvidos para a LogExpress.
 
 ## 📁 Arquivos da Pasta:
 - **`modelo-matematico.md`**: Equações em LaTeX de Maximização de Lucro e Minimização de Custos.
