@@ -22,17 +22,6 @@ Desenvolver e aplicar soluções integradas de Gestão de Projetos, Análise de 
 - `07-video/`: roteiro e link do vídeo.
 - `08-referencias/`: fontes consultadas.
 
-## Como executar
-Os scripts desenvolvidos foram criados para execução direta no **Google Colab** ou **Jupyter Notebook** (Python 3):
-
-1. **Análise de Dados:**
-   - Abra o notebook em `03-analise-de-dados/analise.ipynb`.
-   - Garanta que a base `1.dados_entregas.csv` está acessível e execute as células sequencialmente.
-
-2. **Pesquisa Operacional:**
-   - Abra o notebook em `05-pesquisa-operacional/2_otimizacao_pesquisa_operacional.ipynb`.
-   - Execute a célula inicial de instalação da biblioteca (`!pip install pulp`) e rode os modelos de otimização e análises *What-If*.
-
 ## Vídeo
 - **Link do Vídeo: 
 
