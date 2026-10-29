@@ -11,6 +11,6 @@
 2. **[Estrutura Analítica do Projeto (EAP)](2.EAP.png)**
 3. **[Backlog do Projeto](3.Backlog.md)**
 4. **[Matriz RACI](4.Matriz-raci.md)**
-5. **[Cronograma das Atividades](5.Cronograma.md)**
+5. **[Cronograma de Gantt](5.Cronograma.md)**
 6. **[Matriz de Riscos de Gestão](riscos.md)**
 7. **[Estimativa de Custos](6.Custos.md)**
