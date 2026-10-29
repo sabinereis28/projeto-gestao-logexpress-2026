@@ -1,7 +1,7 @@
 # 05 - Resultados das Otimizações e Análise Crítica
 
 ## 1. Resultados da Maximização (Problema 1)
-- **Cenário Base:** Solução ótima encontrada de **33 Fretes Locais** e **14 Fretes Estaduais**, gerando **Lucro Máximo de R$ 21.100,00**.
+- **Cenário Base:** Solução ótima encontrada de **80 Fretes Locais** e **0 Fretes Estaduais**, gerando **Lucro Máximo de R$ 24.000,00**.
 - **Análise What-If (Crise de Combustível - Redução para 500L):** O algoritmo ajustou a alocação para **33 Fretes Locais** e **0 Fretes Estaduais**, garantindo o lucro possível de **R$ 9.900,00** e evitando o colapso da frota.
 
 ## 2. Resultados da Minimização (Problema 2)
@@ -15,4 +15,4 @@
 **Pergunta Obrigatória:** *Os resultados matemáticos obtidos no Python fazem sentido para a realidade da empresa? Como a Análise de Cenários (What-If) ajuda a gerência a se preparar para imprevistos?*
 
 **Resposta Técnico-Operacional:**
-Os resultados calculados em Python confirmam que a intuição sozinha não basta para gerir frotas logísticas. Na maximização, ficou provado que focar apenas em fretes de longa distância (que possuem maior valor bruto) consome rapidamente a cota de combustível e inviabiliza a operação em momentos de escassez. A simulação *What-If* permitiu à gerência da LogExpress criar planos de contingência pré-calculados para crises de abastecimento e bloqueios de rodovias. Assim, quando um imprevisto ocorre no mundo real, a tomada de decisão é imediata e respaldada por algoritmos, mitigando riscos financeiros e operacionais.
+Os resultados calculados em Python mostram como a otimização pode apoiar a gestão logística da LogExpress. No cenário-base, o modelo priorizou os fretes locais, pois, considerando as restrições de horas e combustível definidas, essa combinação gera o maior lucro total de R$ 24.000,00. Na simulação de crise, com a redução da disponibilidade de combustível para 500 litros, o lucro possível caiu para R$ 9.900,00, mantendo 33 fretes locais e nenhum estadual. A análise What-If permite comparar cenários e preparar alternativas para imprevistos, ajudando a gerência a tomar decisões com base nos recursos disponíveis.
