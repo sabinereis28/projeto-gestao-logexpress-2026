@@ -8,7 +8,7 @@ Esta pasta armazena comprovantes técnicos de execução do projeto (capturas de
   <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d75f90db-3cec-48d2-857b-96540f308787" />
 
 
-- `evidencia-otimizacao-pulp.png`: Print da resolução dos modelos matemáticos via biblioteca PuLP obtendo o status `Optimal`.
+- `evidencia-otimizacao.png`: Print da resolução dos modelos matemáticos via biblioteca scipy.optimize.milp obtendo o status `Optimal`.
 <img width="1366" height="768" alt="Captura de Tela (87)" src="https://github.com/user-attachments/assets/e488166c-c86f-47b0-8b1c-66670e9cfbcf" />
 <img width="1366" height="768" alt="Captura de Tela (88)" src="https://github.com/user-attachments/assets/c054264d-6083-49bd-8d30-137f03168b26" />
 <img width="1366" height="768" alt="Captura de Tela (89)" src="https://github.com/user-attachments/assets/55f64001-bcb3-481d-8243-3880258b42f0" />
