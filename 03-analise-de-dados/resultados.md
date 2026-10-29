@@ -15,8 +15,8 @@
 
 ## 2.2 Análise Estatística Descritiva
 - **Média de Dias Decorridos:** 5,00 dias.
-- **Desvio Padrão dos Atrasos:** 3.38 dias (indicando variação nos tempos de entrega observados).
-- **Correlação de Pearson (Distância vs. Custo de Combustível):** 0.93 (indicando forte associação positiva entre a distância percorrida e o custo de combustível na base analisada.).
+- **Desvio Padrão dos Atrasos:** 3,38 dias (indicando variação nos tempos de entrega observados).
+- **Correlação de Pearson (Distância vs. Custo de Combustível):** 0,93 (indicando forte associação positiva entre a distância percorrida e o custo de combustível na base analisada.).
 
 ---
 
