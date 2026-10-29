@@ -10,7 +10,7 @@ Desenvolver e aplicar soluções integradas de Gestão de Projetos, Análise de 
 - **Gestão de Projetos:** Planejamento e governança do projeto (TAP, EAP, RACI, Cronograma de Gantt e Custos).
 - **Análise de Dados:** Tratamento ETL em Python, cálculo de KPIs operacionais e visualização de dados (Data Viz).
 - **Segurança da Informação:** Matriz GUT de ameaças (OWASP/CVE), políticas IAM/Zero Trust e adequação à LGPD (RoPA).
-- **Pesquisa Operacional:** Modelagem matemática e algoritmos de otimização em Python (biblioteca PuLP) para maximização de lucros e minimização de custos de transporte.
+- **Pesquisa Operacional:** Modelagem matemática e algoritmos de otimização em Python, utilizando "scipy.optimize.milp", para maximização de lucros, minimização de custos de transporte e simulação de cenários (What-If).
 
 ## Estrutura do repositório
 - `01-empresa-e-problema/`: caracterização, requisitos e diagnóstico.
