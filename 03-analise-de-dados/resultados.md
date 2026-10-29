@@ -7,7 +7,7 @@
 
 ## 2.1 Tratamento de Dados (ETL) e KPIs
 - **Tratamento de Dados (ETL):** Executada a remoção de registos nulos na coluna de dias decorridos via biblioteca `pandas` no Google Colab.
-- **KPI 1 - Taxa de Entregas no Prazo:** 63.6% das entregas foram efetuadas dentro do prazo limite.
+- **KPI 1 - Taxa de Entregas no Prazo:** 54,5% das entregas foram efetuadas dentro do prazo limite.
 - **KPI 2 - Custo Médio por Frete:** R$ 321.41 por viagem realizada.
 - **Faturamento Total Mapeado:** R$ 3,535.50.
 
