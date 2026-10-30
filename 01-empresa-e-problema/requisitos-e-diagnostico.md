@@ -4,7 +4,7 @@
 
 ### 1. Custos logísticos elevados e falta de previsibilidade de entregas
 * **O Problema:** Atrasos frequentes de entregas e alto consumo de combustível devido ao planejamento ineficiente de rotas e alocação inadequada de cargas nos veículos.
-* **Solução Proposta (Pesquisa Operacional):** Algoritmos em Python (biblioteca `pulp`) para resolver problemas de Maximização de Carga/Lucro e Minimização de Custos Logísticos.
+* **Solução Proposta (Pesquisa Operacional):** Algoritmos em Python para resolver problemas de Maximização de Carga/Lucro e Minimização de Custos Logísticos.
 
 ### 2. Falta de indicadores (KPIs) e dados descentralizados
 * **O Problema:** A gestão da LogExpress não possui visibilidade em tempo real sobre a taxa de entregas concluídas no prazo, o custo médio por frete nem sobre o histórico de atrasos.
